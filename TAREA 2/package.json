@@ -1,0 +1,21 @@
+{
+  "name": "tarea-2",
+  "version": "1.0.0",
+  "description": "tarea2",
+  "main": "index.js",
+  "scripts": {
+    "test": "hola"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "2105"
+  ],
+  "author": "josue",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
